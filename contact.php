@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
 
+        <link rel="icon" href="img/logo.jpeg" />
+
     <!-- Theme Style -->
     <link rel="stylesheet" href="css/style.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
